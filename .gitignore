@@ -1,2 +1,5 @@
 **.csv
 **.env
+.venv
+.python-version
+.vscode
